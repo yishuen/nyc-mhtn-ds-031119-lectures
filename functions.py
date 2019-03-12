@@ -5,7 +5,7 @@
 
 def odd_even(variable):
     if type(variable)
-    pass
+    changessdfadfl 
 
 # Make a function that takes in a list of numbers and returns only the numbers that are even
 # even_list([1,2,3,4,5,6]) -> [2,4,6]
